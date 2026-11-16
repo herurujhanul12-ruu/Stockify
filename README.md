@@ -1,3 +1,4 @@
+HEAD
 
 # STOCKIFY
 ### Sistem Analisis Persediaan dan Rekomendasi Pengadaan Barang
@@ -58,3 +59,6 @@ Kebutuhan Pengadaan = Target Stok - Stok Akhir
 
 ## Keterangan
 Aplikasi menggunakan data PHP array dan tidak menggunakan database untuk penyimpanan data barang.
+
+# Stockify
+d517dba3949cee5ea24e0a6919ebe690201f4357
